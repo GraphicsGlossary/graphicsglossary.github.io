@@ -10,4 +10,4 @@ Physically Based Rendering (PBR) is the goal of rendering graphics in a way that
 
 ## Going further
 
-- [LearnOpenGL - PBR](https://learnopengl.com/PBR)
+- [LearnOpenGL - PBR](https://learnopengl.com/PBR/Theory)
