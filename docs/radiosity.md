@@ -16,5 +16,5 @@ Radiosity is used in the context of offline rendering to produce high-quality im
 
 ## Going further
 
-- [Radiosity a programmer's perspective](https://www.researchgate.net/profile/Ian-Ashdown/publication/220690300_Radiosity_-_a_programmer%27s_perspective/links/0912f4ff5f5eb42776000000/Radiosity-a-programmers-perspective.pdf)
-- [Radiosity and Realistic Image Synthesis](http://twanclik.free.fr/electricity/electronic/pdfdone12/Radiosity%20and%20realistic%20image%20synthesis%20Cohen%20M.F.,%20Wallace%20J.R.%20(AP,%201995)(412s).pdf)
+- Radiosity a programmer's perspective [PDF](https://www.researchgate.net/profile/Ian-Ashdown/publication/220690300_Radiosity_-_a_programmer%27s_perspective/links/0912f4ff5f5eb42776000000/Radiosity-a-programmers-perspective.pdf)
+- Radiosity and Realistic Image Synthesis [PDF](http://twanclik.free.fr/electricity/electronic/pdfdone12/Radiosity%20and%20realistic%20image%20synthesis%20Cohen%20M.F.,%20Wallace%20J.R.%20(AP,%201995)(412s).pdf) - [Book](https://www.amazon.com/Radiosity-Realistic-Image-Synthesis-Michael/dp/0121782700)
