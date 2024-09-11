@@ -20,6 +20,7 @@ url: "https://graphicsglossary.github.io" # the base hostname & protocol for you
 repository: GraphicsGlossary/graphicsglossary.github.io
 favicon: /miolith.png
 favicon_ico: /miolith.png
+math: katex
 
 permalink: pretty
 
