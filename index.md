@@ -13,6 +13,6 @@ The Graphics Glossary is a collection of terms with explanations, rather than st
 
 Use the search bar above to find a specific term, or browse the list at the left.
 
-I sacrifice some technical depth and truth for clarity and accessibility, so if you're looking for more detailed or advanced information, I recommend checking out the resources linked at the end of each page. Also feel free to suggest corrections or improvements by Twitter [@Miolith_](https://x.com/Miolith_) or by email at **mioliths@gmail.com**.
+I sacrifice some technical depth and truth for clarity and accessibility, so if you're looking for more detailed or advanced information, I recommend checking out the resources linked at the end of each page.
 
-More convenient ways to suggests changes or improvements will be added in the future.
+**Feel free to suggest corrections or improvements by following the guidelines on the [Contribute](/contribute) page.**
