@@ -14,7 +14,7 @@ To contribute, you are encouraged to use the GitHub repository of this project [
 
 There no strict rules for contributing, but here are some priorities you should keep in mind when contributing to a term, ordered by importance:
 1. **Explanation over strict definition**
-2. **Understandable and for beginners, useful for everyone**
+2. **Understandable for beginners, useful for everyone**
 3. **Clarity over exhaustiveness**
 4. **Demistifying technicalities rather than ignoring them**
 4. **Visuals are worth thousands words**
