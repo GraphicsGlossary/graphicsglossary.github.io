@@ -8,11 +8,13 @@ permalink: /contribute/
 
 The Graphics Glossary is a work in progress, and contributions are welcome! If you would like to add a new term, correct an error, or suggest an improvement, please follow the guidelines below.
 
-To contribute, you are encouraged to use the GitHub repository of this project [https://github.com/GraphicsGlossary/graphicsglossary.github.io](https://github.com/GraphicsGlossary/graphicsglossary.github.io) and either create a pull request, open an issue, or use the discussions tab.
+To contribute, you are encouraged to use the GitHub repository ( [https://github.com/GraphicsGlossary/graphicsglossary.github.io](https://github.com/GraphicsGlossary/graphicsglossary.github.io) ) and either create a pull request, open an issue, or use the discussions tab.
+
+You can also use my [social media](https://x.com/Miolith_) if you prefer suggesting modifications privately.
 
 ## Some guidelines
 
-There no strict rules for contributing, but here are some priorities you should keep in mind when contributing to a term, ordered by importance:
+There are no strict rules for this, but here are some priorities you should keep in mind when contributing to a term, ordered by importance:
 1. **Explanation over strict definition**
 2. **Understandable for beginners, useful for everyone**
 3. **Clarity over exhaustiveness**
@@ -21,7 +23,7 @@ There no strict rules for contributing, but here are some priorities you should 
 5. **Focus on computer graphics over general definitions**
 6. **Compensate the lack of exhaustiveness with linked resources**
 
-If don't feel like you can tick all the boxes, don't worry, someone else (probably me) will complete your work. **Contributing a little is better than not contributing at all.**
+If you don't feel like you can tick all the boxes, don't worry, someone else will complete your work. **Contributing a little is better than not contributing at all.**
 
 ### 1. Explanation over strict definition
 
@@ -38,6 +40,8 @@ Over something like:
 >A **Manifold** is topological space with the property that each point has a neighborhood that is homeomorphic to an open subset of n-dimensional Euclidean space.
 
 *Source: [Wikipedia](https://en.wikipedia.org/wiki/Manifold)*
+
+If you ever go for the latter, at least try to quickly explain the technical terms.
 
 ### 2. Understandable for beginners, useful for everyone
 
