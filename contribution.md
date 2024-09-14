@@ -77,3 +77,7 @@ Visuals are a great way to help people understand a concept. It can be an image,
 ### 6. Focus on computer graphics over general definitions
 
 The glossary is about computer graphics, so try to focus on why the concept is relevant to the field.
+
+### 7. Compensate the lack of exhaustiveness with linked resources
+
+As you cannot develop every detail of the concept, try to provide links to resources that you believe to be valuable to gain working knowledge of the concept.
