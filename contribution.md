@@ -33,13 +33,13 @@ For example, prefer something like this:
 
 >A **Manifold** is a surface in which every point has a small neighborhood that could be approximated by a flat surface. 
 
-*Source: 'Fundamentals of Computer Graphics' by Peter Shirley and Steve Marschner*
+<small>*Source: 'Fundamentals of Computer Graphics' by Peter Shirley and Steve Marschner*</small>
 
 Over something like:
 
 >A **Manifold** is topological space with the property that each point has a neighborhood that is homeomorphic to an open subset of n-dimensional Euclidean space.
 
-*Source: [Wikipedia](https://en.wikipedia.org/wiki/Manifold)*
+<small>*Source: [Wikipedia](https://en.wikipedia.org/wiki/Manifold)*</small>
 
 If you ever go for the latter, at least try to quickly explain the technical terms.
 
@@ -53,7 +53,8 @@ Example:
 
 >## Sparse Octree
 >An **octree** is a tree data structure where each node has 0 or 8 children generally used to divide a volume into 8 sub-volumes. A **Sparse Octree** is an octree where only nodes containing data are stored, and empty nodes are not allocated in memory.
-*The octree page already exists, but it doen't hurt to repeat a bit of information here.*
+
+<small>*The octree page already exists, but it doen't hurt to repeat a bit of information here.*</small>
 
 
 ### 3. Clarity over exhaustiveness
