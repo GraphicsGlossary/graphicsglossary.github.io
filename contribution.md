@@ -51,13 +51,9 @@ If you need to refer to other technical terms, try to explain them briefly on th
 
 Example:
 
->## CSM / Cascaded Shadow Mapping
->
->A **Shadow Map** consists of rendering shadows by rendering the scene from the light's point of view and storing the depth information in a texture. This texture is then used to determine if a pixel is in shadow or not.
->
->**Cascaded Shadow Mapping (CSM)** casts shadows using shadow maps of varying resolutions depending on the distance from the camera. Shadows on far distances use lower resolution shadow maps, while shadows on close distances use higher resolution.
-
-*The Shadow Map glossary page exists, but it doesn't hurt to repeat a bit of information.*
+>## Sparse Octree
+>An **octree** is a tree data structure where each node has 0 or 8 children generally used to divide a volume into 8 sub-volumes. A **Sparse Octree** is an octree where only nodes containing data are stored, and empty nodes are not allocated in memory.
+*The octree page already exists, but it doen't hurt to repeat a bit of information here.*
 
 
 ### 3. Clarity over exhaustiveness
