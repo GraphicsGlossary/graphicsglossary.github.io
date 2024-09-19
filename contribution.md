@@ -69,7 +69,7 @@ The [Homogeneous Coordinates](/homogeneous-coordinates/) page is, I believe, a g
 
 ### 5. Visuals are worth thousands words
 
-Visuals are a great way to help people understand a concept. It can be an image, a diagram, a small video or even a code snippet. **Please make sure not to use copyrighted material.**
+Visuals are a great way to help people understand a concept. It can be an image, a diagram, a small video or even a code snippet.
 
 ### 6. Focus on computer graphics over general definitions
 
