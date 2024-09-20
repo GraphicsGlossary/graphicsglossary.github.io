@@ -11,4 +11,4 @@ permalink: /physically-based-rendering/
 ## Going further
 
 - [LearnOpenGL - PBR](https://learnopengl.com/PBR/Theory)
-- [Physcally Based Rendering - 4th Edition] https://pbr-book.org/4ed/contents
+- [Physcally Based Rendering - 4th Edition](https://pbr-book.org/4ed/contents)
