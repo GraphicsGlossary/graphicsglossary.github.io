@@ -18,7 +18,7 @@ There are no strict rules for this, but here are some priorities you should keep
 1. **Explanation over strict definition**
 2. **Understandable for beginners, useful for everyone**
 3. **Clarity over exhaustiveness**
-4. **Demistifying technicalities rather than ignoring them**
+4. **Demystifying technicalities rather than ignoring them**
 4. **Visuals are worth thousands words**
 5. **Focus on computer graphics over general definitions**
 6. **Compensate the lack of exhaustiveness with linked resources**
@@ -31,17 +31,19 @@ Try to make people click with the term. The goal is to provide a clear explanati
 
 For example, prefer something like this:
 
->A **Manifold** is a surface in which every point has a small neighborhood that could be approximated by a flat surface. 
+{: .admonition }
+A **Manifold** is a surface in which every point has a small neighborhood that could be approximated by a flat surface. 
 
 <small>*Source: 'Fundamentals of Computer Graphics' by Peter Shirley and Steve Marschner*</small>
 
 Over something like:
 
->A **Manifold** is topological space with the property that each point has a neighborhood that is homeomorphic to an open subset of n-dimensional Euclidean space.
+{: .admonition }
+A **Manifold** is a topological space with the property that each point has a neighborhood that is homeomorphic to an open subset of n-dimensional Euclidean space.
 
 <small>*Source: [Wikipedia](https://en.wikipedia.org/wiki/Manifold)*</small>
 
-If you ever go for the latter, at least try to quickly explain the technical terms.
+If you ever go for the latter, at least try to quickly explain the technical terms involved.
 
 ### 2. Understandable for beginners, useful for everyone
 
@@ -51,8 +53,9 @@ If you need to refer to other technical terms, try to explain them briefly on th
 
 Example:
 
->## Sparse Octree
->An **octree** is a tree data structure where each node has 0 or 8 children generally used to divide a volume into 8 sub-volumes. A **Sparse Octree** is an octree where only nodes containing data are stored, and empty nodes are not allocated in memory.
+{: .admonition }
+**Sparse Octree**:\
+An **octree** is a tree data structure where each node has 0 or 8 children generally used to divide a volume into 8 sub-volumes. A **Sparse Octree** is an octree where only nodes containing data are stored, and empty nodes are not allocated in memory.
 
 <small>*The octree page already exists, but it doen't hurt to repeat a bit of information here.*</small>
 
@@ -61,7 +64,7 @@ Example:
 
 If you can be both exhaustive and clear, that's great! But if you have to choose, prefer clarity. The goal is to make people understand the term, not to make them experts.
 
-### 4. Demistifying technicalities rather than ignoring them
+### 4. Demystifying technicalities rather than ignoring them
 
 By thinking about beginners, you might fear diving into the mathemathics or the computer science behind a term. I firmly believe that you should not ignore them, but rather explain bit by bit without skipping what you may assume is trivial.
 
@@ -78,3 +81,15 @@ The glossary is about computer graphics, so try to focus on why the concept is r
 ### 7. Compensate the lack of exhaustiveness with linked resources
 
 As you cannot develop every detail of the concept, try to provide links to resources that you believe to be valuable to gain working knowledge of the concept.
+
+## Formatting with Markdown, HTML and LateX
+
+Refer to these resources for formatting help:
+
+General formatting :
+- [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+- [just-the-docs examples site](https://just-the-docs.github.io/just-the-docs-tests/)
+
+Math formatting :
+- [KateX sample in just-the-docs](https://just-the-docs.github.io/just-the-docs-tests/components/math/katex/tests/)
+- [KateX supported functions](https://katex.org/docs/supported)
