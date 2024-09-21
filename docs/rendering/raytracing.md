@@ -7,8 +7,4 @@ parent: Rendering
 
 # Ray Tracing
 
-**Ray tracing** is a rendering technique that simulates the way light interacts with objects in a scene. For each pixels, rays are cast into the scene, finding within the scene which surfaces intersect with the ray, then simulating a bounce off these surfaces to calculate the final color of the pixel.
-
-## Usage in Computer Graphics
-
-Ray tracing enables the creation of realistic images by simulating the physical behavior of light rays.
+**Ray tracing** is a rendering technique that retraces the trajectory of light rays that reach the camera. For each pixel of the image, a ray is cast from the camera through the pixel and into the scene. The ray is then tested for intersection for all objects in the scene. If an intersection is found, the algorithm computes the contribution of the surface to the color of the pixel, and makes the light ray bounce off the surface to simulate reflections, refractions, and shadows.
