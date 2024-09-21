@@ -2,6 +2,7 @@
 layout: default
 title: SM / Streaming Multiprocessor
 permalink: /streaming-multiprocessor/
+parent: GPU Computing
 ---
 
 # SM / Streaming Multiprocessor

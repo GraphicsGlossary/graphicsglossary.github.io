@@ -2,6 +2,7 @@
 layout: default
 title: RDNA / Radeon DNA
 permalink: /rdna/
+parent: GPU Computing
 ---
 
 # RDNA / Radeon DNA

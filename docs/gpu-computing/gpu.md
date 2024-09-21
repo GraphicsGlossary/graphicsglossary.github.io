@@ -2,6 +2,7 @@
 layout: default
 title: GPU / Graphics Processing Unit
 permalink: /gpu/
+parent: GPU Computing
 ---
 
 # GPU / Graphics Processing Unit
