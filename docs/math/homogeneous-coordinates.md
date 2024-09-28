@@ -2,6 +2,7 @@
 layout: default
 title: Homogeneous Coordinates
 permalink: /homogeneous-coordinates/
+parent: Maths
 ---
 
 # Homogeneous Coordinates
