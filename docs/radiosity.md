@@ -10,9 +10,15 @@ permalink: /radiosity/
 
 The technique divides the scene into small patches and computes the amount of light that is reflected between each pair of patches. The algorithm is based on the principle of energy conservation, which states that the total amount of light energy in a closed system remains constant.
 
+It simplifies the rendering equation by considering every surface to be exclusively diffusing or emitting light. This means that for a unit surface area, the amount of light reflected or emitted is the same in all directions.
+
+The term "radiosity" comes from the field of radiometry and originally refers to the total amount of light power exiting a surface in all directions.
+
 ## Usage in Computer Graphics
 
 Radiosity is used in the context of offline rendering to produce high-quality images with realistic lighting effects. The algorithm is particularly well-suited for scenes with diffuse surfaces, such as architectural interiors, where indirect lighting plays a significant role in the overall appearance of the scene.
+
+It's also used by Valve's Source Engine to precompute lighting information for static scenes.
 
 ## Going further
 
